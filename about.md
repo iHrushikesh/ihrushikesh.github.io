@@ -55,4 +55,4 @@ Familiar with AWS- EC2,S3
 + Sterling Commerce certified -Multi-Channel Selling Configurator Fundamentals
 
 ##### Contact
-[email](hrushi.deshmukh@gmail.com)  |  [GitHub](http://github.com/ihrushikesh)
+[email](mailTo:hrushi.deshmukh@gmail.com)  |  [GitHub](http://github.com/ihrushikesh)
