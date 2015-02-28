@@ -3,10 +3,6 @@ layout: page
 title: Hrushikesh Deshmukh
 permalink: /about/
 ---
-Full stack developer from Irvine CA
-[email](hrushi.deshmukh@gmail.com)  |  [GitHub](github.com/ihrushikesh)
-
-
 Passionate developer with over nine years of experience in the analysis, design, programming, and implementation of computer business systems. Extensive expertise in Sterling OMS(Order Management) ,Sterling Commerce CPQ, Java/J2EE, Web Services. Led project development teams and implemented client facing enterprise projects.
 Quick learner and up-to-date with latest technologies. Recently completed Stanford: Machine Learning course at Coursera.org, which covered Linear Regression, Neural Networks, Logistic Regression, Anomaly Detection, SVM and Recommender Systems.
 
@@ -59,3 +55,5 @@ Familiar with AWS- EC2,S3
 + Sterling Commerce certified -Multi-Channel Selling Technical Fundamentals
 + Sterling Commerce certified -Multi-Channel Selling Configurator Fundamentals
 
+##### Contact
+[email](hrushi.deshmukh@gmail.com)  |  [GitHub](github.com/ihrushikesh)
