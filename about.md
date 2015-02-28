@@ -49,7 +49,7 @@ Familiar with AWS- EC2,S3
 
 ##### Certifications
 
-+ Stanford Machine Learning at Coursera.org (Prof. Andrew Ng.) [view certificate](http://goo.gl/acm78f)
++ Stanford Machine Learning at Coursera.org (Prof. Andrew Ng.) [view certificate](https://drive.google.com/open?id=0B34n3Tb1CXRlaXhkeHVQQzZRYWc&authuser=0)
 + Sun Certified Java Programmer for Java 5
 + Sterling Commerce certified -Multi-Channel Selling Technical Fundamentals
 + Sterling Commerce certified -Multi-Channel Selling Configurator Fundamentals
