@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Hrushikesh Deshmukh
 permalink: /about/
 ---
 Passionate developer with over nine years of experience in the analysis, design, programming, and implementation of computer business systems. Extensive expertise in Sterling OMS(Order Management) ,Sterling Commerce CPQ, Java/J2EE, Web Services. Led project development teams and implemented client facing enterprise projects.
