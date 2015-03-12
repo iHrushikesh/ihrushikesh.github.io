@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: Javascript: prototype and __proto
@@ -33,6 +34,5 @@ console.log(typeof Object); //"function"
 So above Object.prototype is used to create new object's \__proto\__ object.
 
 Conclusion:
----
 Only Functions have prototpe proerty which points to a prototype object which will be used to construct \__proto\__ of the new 
 objects derived from that function.\__proto\__ is the actual object that is used in the lookup chain to resolve properties,methods, etc
