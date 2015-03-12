@@ -9,11 +9,11 @@ In javascript we can use new keyword to create a object from a function (called 
 function Foo(){  };
 var fooInstance=new Foo();
 ```
-The resulting fooInstance will now have a property \__proto\__ as below,
+The resulting fooInstance will now have a property \__proto__ as below,
 ```
 console.log(fooInstance.__proto__);  //  foo {}
 ```
-The constructor Foo has a property prototype which wich points to a object which will be used to build fooInstance \__proto\__
+The constructor Foo has a property prototype which wich points to a object which will be used to build fooInstance \__proto__
 ```
 console.log(Foo.prototype)  // foo{}
 ```
@@ -30,8 +30,8 @@ What happened here is that, whenever we create object using object literal synta
 console.log(Object.prototype); // Object{}
 console.log(typeof Object); //"function"
 ```
-So above Object.prototype is used to create new object's \__proto\__ object.
+So above Object.prototype is used to create new object's \__proto__ object.
 
 Conclusion:
-Only Functions have prototpe proerty which points to a prototype object which will be used to construct \__proto\__ of the new 
-objects derived from that function.\__proto\__ is the actual object that is used in the lookup chain to resolve properties,methods, etc
+Only Functions have prototpe proerty which points to a prototype object which will be used to construct \__proto__ of the new 
+objects derived from that function.\__proto__ is the actual object that is used in the lookup chain to resolve properties,methods, etc
