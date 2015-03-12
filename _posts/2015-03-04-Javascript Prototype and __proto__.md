@@ -18,6 +18,7 @@ The constructor Foo has a property prototype which wich points to a object which
 
 ```
 console.log(Foo.prototype)  // foo{}
+console.log(Foo.prototype === fooInstance.__proto__); //true
 ```
 Let's create another object as object literal,
 
@@ -25,6 +26,7 @@ Let's create another object as object literal,
 var objLit={ zoo:1};
 console.log(objLit.__proto__); // Object{}
 console.log(objLit.prototype); // undefined
+
 ````
 What happened here is that, whenever we create object using object literal syntax the type of newly created object is Object.
 ```
@@ -35,5 +37,6 @@ So above Object.prototype is used to create new object's \__proto__ object.
 
 Conclusion:
 -----------
-Only Functions have prototpe proerty which points to a prototype object which will be used to construct \__proto__ of the new 
-objects derived from that function.\__proto__ is the actual object that is used in the lookup chain to resolve properties,methods, etc
+Only Functions have prototpe proerty which points to a prototype object which will be used to construct \__proto__ of the new
+objects derived from that function.\__proto__ is the object that is used in the lookup chain to resolve properties,methods, etc.
+P.S.  \__proto__ is depricated so you should use Object.getPrototypeOf(obj) method instead to check the protype.
