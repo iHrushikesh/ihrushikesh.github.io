@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Javascript: prototype
+title: Javascript
 ---
 
 In javascript we can use new keyword to create a object from a function (called constructor function in this case) like below
