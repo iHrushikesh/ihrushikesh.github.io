@@ -39,4 +39,6 @@ Conclusion:
 -----------
 Only Functions have prototpe proerty which points to a prototype object which will be used to construct \__proto__ of the new
 objects derived from that function.\__proto__ is the object that is used in the lookup chain to resolve properties,methods, etc.
-P.S.  \__proto__ is depricated so you should use Object.getPrototypeOf(obj) method instead to check the protype.
+
+Note:
+\__proto__ is depricated so you should use Object.getPrototypeOf(obj) method instead to check the protype.
