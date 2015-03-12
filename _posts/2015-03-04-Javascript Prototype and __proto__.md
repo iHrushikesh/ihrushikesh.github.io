@@ -10,14 +10,15 @@ function Foo(){  };
 var fooInstance=new Foo();
 ```
 The resulting fooInstance will now have a property \__proto__ as below,
+
 ```
 console.log(fooInstance.__proto__);  //  foo {}
 ```
 The constructor Foo has a property prototype which wich points to a object which will be used to build fooInstance \__proto__
+
 ```
 console.log(Foo.prototype)  // foo{}
 ```
-
 Let's create another object as object literal,
 
 ```
@@ -33,5 +34,6 @@ console.log(typeof Object); //"function"
 So above Object.prototype is used to create new object's \__proto__ object.
 
 Conclusion:
+-----------
 Only Functions have prototpe proerty which points to a prototype object which will be used to construct \__proto__ of the new 
 objects derived from that function.\__proto__ is the actual object that is used in the lookup chain to resolve properties,methods, etc
