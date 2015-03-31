@@ -3,11 +3,12 @@ layout: page
 permalink: /about/
 ---
 Passionate developer with over nine years of experience in the analysis, design, programming, and implementation of computer business systems. Extensive expertise in Sterling OMS(Order Management) ,Sterling Commerce CPQ, Java/J2EE, Web Services. Led project development teams and implemented client facing enterprise projects.
+
 Quick learner and up-to-date with latest technologies. Recently completed Stanford: Machine Learning course at Coursera.org, which covered Linear Regression, Neural Networks, Logistic Regression, Anomaly Detection, SVM and Recommender Systems.
 
-##### Work Experience
+#### Work Experience
 
-#### Sr. Software Developer, LabCorp Irvine CA 						(Sep 2012 to Present)
+##### Sr. Software Developer, LabCorp Irvine CA 						(Sep 2012 to Present)
 ###### Project Details: 
 Working as a Sr. Software Developer on various applications including the Sterling Commerce OMS (Order Management System) implemented using java/J2EE.
 
@@ -36,15 +37,17 @@ Accomplishments: Implemented the framework from scratch and customized using Jav
 Apart from this project I worked on two smaller assignments to refractor existing models for performance improvement for Dun & Bradstreet, NJ.
 
 #### 4. Project Leader, Wipro Ltd								(Feb 2007 to Aug 2010)
-A) C3 / Comergent Offer Management Project, DirecTV, El Segundo CA
-######  Project Details: Worked as a Developer/Modeler on the C3 e-Commerce project. The e-Commerce project is part of DirecTV’s overall CRM strategy to generate new business, drive operational efficiencies, improve the customer experience, and build upon established customer relationships.
+##### A) Comergent Offer Management Project, DirecTV, El Segundo CA
+######  Project Details
+Worked as a Developer/Modeler on the C3 e-Commerce project. The e-Commerce project is part of DirecTV’s overall CRM strategy to generate new business, drive operational efficiencies, improve the customer experience, and build upon established customer relationships.
 ###### Responsibilities
 My role involved leading a team of modeler, to developing custom UI controls, custom functions for Configurator and also customize the tool to support the DirecTV UI and functional requirements. I also played brutal role in designing the campaign and occurrence based Pricing engine for DirecTV, developing UI design and bizAPI for the DirecTV implementation using Sterling MCS.
 ###### Accomplishments
 Played a very important role to setup a long term engagement for Wipro with DirecTV. Quickly adapted and mastered in the new technology – Sterling Commerce and also mentored offshore team while working as an onsite tech lead. I was also part of Offers-Express team, which was responsible for launching offers with very short notice.
 
-B) Verbal IRA Distribution Project, Charles Schwab, Denver CO/Pune India
-Project Details: Worked as a Java Tech lead on a regulatory project. The web application is responsible to document the state and Federal tax withholding opted by the users.
+#### B) Verbal IRA Distribution Project, Charles Schwab, Denver CO/Pune India
+##### Project Details
+Worked as a Java Tech lead on a regulatory project. The web application is responsible to document the state and Federal tax withholding opted by the users.
 ###### Responsibilities
 As a lead developer managed the team members working across the globe and co-ordinate between different teams. My responsibilities were requirement analysis, coding, unit testing.
 ###### Accomplishment: Improved the page rendering time by 60%, by designing a web service which returned the results in required format. Delivered a Federal regulatory project in spite of very challenging timelines.
