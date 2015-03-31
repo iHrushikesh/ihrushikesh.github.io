@@ -6,9 +6,9 @@ Passionate developer with over nine years of experience in the analysis, design,
 
 Quick learner and up-to-date with latest technologies. Recently completed Stanford: Machine Learning course at Coursera.org, which covered Linear Regression, Neural Networks, Logistic Regression, Anomaly Detection, SVM and Recommender Systems.
 
-#### Work Experience
+### Work Experience
 
-##### Sr. Software Developer, LabCorp Irvine CA 						(Sep 2012 to Present)
+#### Sr. Software Developer, LabCorp Irvine CA 						(Sep 2012 to Present)
 ###### Project Details: 
 Working as a Sr. Software Developer on various applications including the Sterling Commerce OMS (Order Management System) implemented using java/J2EE.
 
