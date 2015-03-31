@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/
 ---
-> Passionate developer with over nine years of experience in the analysis, design, programming, and implementation of >computer business systems. Extensive expertise in Sterling OMS(Order Management) ,Sterling Commerce CPQ, Java/J2EE, Web >Services. Led project development teams and implemented client facing enterprise projects.
+> Passionate developer with over nine years of experience in the analysis, design, programming, and implementation of computer business systems. Extensive expertise in Sterling OMS(Order Management) ,Sterling Commerce CPQ, Java/J2EE, Web Services. Led project development teams and implemented client facing enterprise projects.
 
 Quick learner and up-to-date with latest technologies. Recently completed Stanford: Machine Learning course at Coursera.org, which covered Linear Regression, Neural Networks, Logistic Regression, Anomaly Detection, SVM and Recommender Systems.
 
