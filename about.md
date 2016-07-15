@@ -57,7 +57,7 @@ As a lead developer managed the team members working across the globe and co-ord
 
 ##### Languages and Technologies:
 Java, JavaScript, HTML/CSS,SQL
-Node.js, Octave, Matlab, Spring, AngularJS, YUI, Knockout, Redis, MongoDB
+Node.js,Javascript,React/Redux, Redis, MongoDB
 Familiar with AWS- EC2,S3 
 
 ##### EDUCATION
