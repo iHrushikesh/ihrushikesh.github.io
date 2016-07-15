@@ -2,7 +2,7 @@
 layout: page
 permalink: /about/
 ---
-> Passionate developer with over nine years of experience in the analysis, design, programming, and implementation of computer business systems. Extensive expertise in Sterling OMS(Order Management) ,Sterling Commerce CPQ, Java/J2EE, Web Services. Led project development teams and implemented client facing enterprise projects.
+> Passionate developer with over ten years of experience in the analysis, design, programming, and implementation of computer business systems. Extensive expertise in Sterling OMS(Order Management) ,Sterling Commerce CPQ, Java/J2EE, Web Services. Led project development teams and implemented client facing enterprise projects.
 
 Quick learner and up-to-date with latest technologies. Recently completed Stanford: Machine Learning course at Coursera.org, which covered Linear Regression, Neural Networks, Logistic Regression, Anomaly Detection, SVM and Recommender Systems.
 
@@ -13,10 +13,10 @@ Quick learner and up-to-date with latest technologies. Recently completed Stanfo
 Working as a Sr. Software Developer on various applications including the Sterling Commerce OMS (Order Management System) implemented using java/J2EE.
 
 ###### Responsibilities
-Requirement Analysis, Model Design and implementation, Customization and integration using Java/J2EE, YUI, Knockout, HTML5 and Node.js
+Requirement Analysis, Model Design and implementation, Customization and integration using Java/J2EE, React,Redux and Node.js
 ###### Accomplishment
-+ Developed Single Page Web Front End using AngularJS
-+ Developed highly scalable API’s using NodeJS/ExpressJS
++ Designed and Developed customer facing Single Page Web application using React/Redux
++ Developed highly scalable API’s using Spring/NodeJS
 + Gained over 30% performance improvement by implementing a NOSQL solution.
 + Re-factored many components of the web application and achieved increase in performance in addition to better user experience.
 
